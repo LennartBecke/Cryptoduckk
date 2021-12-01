@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cryptoduckk <code>src/App.tsx</code> find your cryptoooo.
+          Cryptoduckk <code>src/App.tsx</code> find your cryptooooo.
         </p>
         <a
           className="App-link"
